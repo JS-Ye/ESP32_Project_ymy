@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/CMakeFiles/bootloader
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/CMakeFiles/bootloader.rule
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/CMakeFiles/bootloader-complete.rule
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_4_NVS_错误处理/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

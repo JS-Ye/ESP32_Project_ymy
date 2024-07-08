@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "sdkconfig.h": "c",
+    "esp_task_wdt.h": "c",
+    "freertos.h": "c",
+    "esp_task.h": "c",
+    "thread": "c",
+    "esp_flash_spi_init.h": "c",
+    "esp_flash.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}

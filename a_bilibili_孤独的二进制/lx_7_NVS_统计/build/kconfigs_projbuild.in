@@ -1,0 +1,6 @@
+source "/home/ymy/v4.4/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/ymy/v4.4/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/ymy/v4.4/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "/home/ymy/v4.4/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/ymy/v4.4/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/ymy/esp/my_code/a_bilibili_孤独的二进制/lx_7_NVS_统计/main/Kconfig.projbuild"

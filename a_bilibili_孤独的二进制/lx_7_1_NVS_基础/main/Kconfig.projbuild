@@ -1,0 +1,19 @@
+menu "点灯配置"
+
+    config LED_GPIO_NUM
+        int
+        prompt "LED_GPIO_NUM"
+        range 0 39
+        default 2
+        help 
+            "LED与开发板的连接管脚"
+
+    config DELAY_TIME_MS
+        int
+        prompt "DELAY_TIME_MS"
+        range 1 10000
+        default 1000
+        help 
+            "LED闪烁延时时长"
+
+endmenu
